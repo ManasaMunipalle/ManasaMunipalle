@@ -1,6 +1,6 @@
 ## Hi there 👋 
 I am Manasa
-📊 Aspiring Data Analyst passionate about uncovering insights from data.  
+📊 Aspiring Data Engineer passionate about uncovering insights from data.  
 Completed my Masters in Information Systems
 📊 I love working with data and continuously learning new techniques to solve real-world problems!  
 
